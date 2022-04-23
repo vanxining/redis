@@ -1,3 +1,5 @@
+cmake-*
+
 .*.swp
 *.o
 *.xo
